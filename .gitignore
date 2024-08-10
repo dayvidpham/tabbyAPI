@@ -208,3 +208,8 @@ openapi.json
 
 # Infinity-emb cache
 .infinity_cache/
+
+
+##############################################
+# NixOS
+.direnv/
